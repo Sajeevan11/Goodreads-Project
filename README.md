@@ -1,7 +1,7 @@
 
-# GoodReads Advanced Data Analysis Project
+# GoodReads Modelling Part
 
-This project is centered on advanced data analysis or machine learning techniques applied to an enhanced dataset of books from GoodReads. The notebook is designed to walk through sophisticated data processing, analysis, and possibly modeling steps.
+This project is on the modelling data and modeling steps.
 
 ## Setup
 
