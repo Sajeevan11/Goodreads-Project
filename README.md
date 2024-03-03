@@ -1,7 +1,7 @@
 
 # GoodReads Modelling Part
 
-This project is on the modelling data and modeling steps.
+This part of project is on the modelling data and modeling steps.
 
 ## Setup
 
