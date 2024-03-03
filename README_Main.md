@@ -33,14 +33,9 @@ The notebook is meticulously organized into sections to facilitate a smooth anal
 
 6. **In-depth Analysis and Visualization:** Follows the pandas-profiling report with custom analyses tailored to specific questions or hypotheses about the data. This section leverages Pandas, Matplotlib, and Seaborn for data manipulation and visualization.
 
-7. **Modeling (if applicable):** The notebook may conclude with modeling efforts to predict outcomes or cluster the data based on features engineered in previous steps. This could involve the use of scikit-learn or other machine learning libraries.
-
-8. **Conclusion:** Summarizes the insights gained from the data analysis and any recommendations or findings that could benefit GoodReads or stakeholders interested in book data.
+7. **Modeling:** The notebook conclude with modeling efforts to predict outcomes or cluster the data based on features engineered in previous steps. This could involve the use of scikit-learn or other machine learning libraries.
 
 ## Conclusion
 
 This notebook is designed as a comprehensive guide to processing and analyzing data from GoodReads, with a focus on practical applications of data cleaning, EDA, and feature engineering techniques. It aims to provide actionable insights through a detailed examination of the dataset.
 
-## Note
-
-Remember to replace file paths and adapt code snippets as necessary to fit your environment and dataset specifics.
